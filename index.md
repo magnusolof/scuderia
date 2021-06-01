@@ -1,5 +1,7 @@
 ## Scuderia
 
+Scuderia means stable (noun) in the Italian language. It has entered English usage mainly through professional auto racing, in which many Italian teams incorporate the term in their names.
+
 You can use the [editor on GitHub](https://github.com/magnusolof/scuderia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
